@@ -50,6 +50,37 @@ Reason: this is how I got my navigation bar
 
 ~ link 7
 
+Video/Link:
+
+<>
+
+Reason:
+
+~ Link 8
+
+Video/Link:
+
+<>
+
+Reason:
+
+~Link 9
+
+Video/Link:
+
+<>
+
+Reason:
+
+~Link 10
+
+Video/Link:
+
+<>
+
+Reason:
+
+
 
 
 
