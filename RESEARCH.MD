@@ -46,15 +46,15 @@ Link: getbootstrap.com
 
 <https://getbootstrap.com/docs/4.3/components/navbar/>
 
-Reason: this is how I got my navigation bar
+Reason: this is how I got my navigation bar. Took only the Home, and Link parts of the code
 
 ~ link 7
 
-Video/Link:
+Video/Link: build a meme Python website (Flask Tutorial for Beginners)
 
-<>
+<https://www.youtube.com/watch?v=5aYpkLfkgRE>
 
-Reason:
+Reason: I how to make a website and also had to restart because my code was not working.
 
 ~ Link 8
 
