@@ -74,11 +74,11 @@ Reason: When I was confused about how to download flask and use it on VS code, h
 
 ~Link 10
 
-Video/Link:
+Video/Link: Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps
 
-<>
+<https://www.youtube.com/watch?v=yBDHkveJUf4&t=4976s>
 
-Reason:
+Reason: He also helped me in the beginning by helping me slowly get into flask and into my website.
 
 
 
