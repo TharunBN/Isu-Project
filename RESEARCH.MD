@@ -10,11 +10,37 @@ Reason: I wanted to use this video to help me with my website and help me input 
 
 ~ Link 2
 
-Video/Site:
+Video/Site: How to Make a Website with Python (Flask app tutorial)
 
-<>
+<https://www.youtube.com/watch?v=qaBo_IiE4Gc>
 
-Reason:
+Reason: I used this website to also help me make a website
 
 ~ link 3
+
+Video/site: Flask Tutorial #1 - How to Make Websites with Python
+
+<https://www.youtube.com/watch?v=mqhxxeeTbu0>
+
+Reason: I used this youtube to help me with my code after some issues. I used this to help make my website.
+
+~ Link 4
+
+Site: getbootstrap.com
+
+<https://getbootstrap.com/docs/4.3/getting-started/introduction/>
+
+Reason: this is how I got part of my css code
+
+~ Link 5
+
+Video: Building a Blog App With Flask and Flask-SQLAlchemy
+
+<https://www.youtube.com/watch?v=XHGpPCYmPvI>
+
+Reason: was looking at this video as insipiration and also as an AID. Also to help open options.
+
+~ Link 6
+
+
 
