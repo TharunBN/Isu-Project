@@ -58,19 +58,19 @@ Reason: I how to make a website and also had to restart because my code was not 
 
 ~ Link 8
 
-Video/Link:
+Video/Link: Make A Python Website As Fast As Possible!
 
-<>
+<https://www.youtube.com/watch?v=kng-mJJby8g&t=379s>
 
-Reason:
+Reason: How to make a Python website, also had to restart my code. (Code kept breaking and had to keep restarting)
 
 ~Link 9
 
-Video/Link:
+Video/Link: setup a Flask Application in VS Code and Run a Basic App
 
-<>
+<https://www.youtube.com/watch?v=GHvj1ivQ7ms&t=437s>
 
-Reason:
+Reason: When I was confused about how to download flask and use it on VS code, he helped me understand it and it worked.
 
 ~Link 10
 
