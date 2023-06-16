@@ -7,4 +7,4 @@ I want to make a Python informative website. On this website I wanted it to be i
 
 Goal: my goal is to finish my project or somewhat finish my project just enough so that I have images and a navigation bar
 
-Technology: The technology I will be using is FLask, HTML, CSS, possible SQL
+Technology: The technology I will be using is FLask, HTML, CSS, and possible SQL
